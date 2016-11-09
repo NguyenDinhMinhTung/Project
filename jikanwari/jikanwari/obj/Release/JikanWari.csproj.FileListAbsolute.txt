@@ -1,0 +1,14 @@
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\bin\Release\jikanwari.exe.config
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\bin\Release\jikanwari.exe
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\bin\Release\jikanwari.pdb
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\JikanWari.csprojResolveAssemblyReference.cache
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\MainWindow.g.cs
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\App.g.cs
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\jikanwari_MarkupCompile.cache
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\jikanwari_MarkupCompile.lref
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\MainWindow.baml
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\jikanwari.g.resources
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\jikanwari.Properties.Resources.resources
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\JikanWari.csproj.GenerateResource.Cache
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\jikanwari.exe
+C:\Users\TUNG\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Release\jikanwari.pdb

@@ -12,17 +12,3 @@ c:\users\tung\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Debu
 c:\users\tung\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Debug\jikanwari.csproj.GenerateResource.Cache
 c:\users\tung\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Debug\jikanwari.exe
 c:\users\tung\documents\visual studio 2015\Projects\jikanwari\jikanwari\obj\Debug\jikanwari.pdb
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\bin\Debug\jikanwari.exe.config
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\jikanwari.exe
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\jikanwari.pdb
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\bin\Debug\jikanwari.exe
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\bin\Debug\jikanwari.pdb
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\JikanWari.csprojResolveAssemblyReference.cache
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\MainWindow.g.cs
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\App.g.cs
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\jikanwari_MarkupCompile.cache
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\jikanwari_MarkupCompile.lref
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\MainWindow.baml
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\jikanwari.g.resources
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\jikanwari.Properties.Resources.resources
-C:\Users\TUNG\Documents\GitHub\Project\jikanwari\jikanwari\obj\Debug\JikanWari.csproj.GenerateResource.Cache

@@ -6,8 +6,8 @@
         xmlns:local="clr-namespace:jikanwari"
         mc:Ignorable="d"
         Title="MainWindow" Height="401.334" Width="987.933" 
-        Background="White" Loaded="Window_Loaded" ResizeMode="NoResize" WindowStyle="ThreeDBorderWindow">
-    <Grid Name="mainGrid" Background="#FF424242">
+        Background="White" Loaded="Window_Loaded">
+    <Grid Name="mainGrid">
         <Grid.ColumnDefinitions >
             <ColumnDefinition Width="*"></ColumnDefinition>
             <ColumnDefinition Width="*"></ColumnDefinition>
@@ -27,45 +27,45 @@
             <!--<RowDefinition Height="*"></RowDefinition>-->
             <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
-        <Border Grid.Column="0" Grid.Row="0" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C"></Border>
-        <Border Grid.Column="1" Grid.Row="0" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="月" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="0" Grid.Row="0" BorderThickness="1" BorderBrush="Black"></Border>
+        <Border Grid.Column="1" Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+        <TextBlock TextAlignment="Center" Text="月" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" ></TextBlock>
         </Border>
-        <Border Grid.Column="2" Grid.Row="0" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="火" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="2" Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="火" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" ></TextBlock>
         </Border>
-        <Border Grid.Column="3" Grid.Row="0" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="水" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="3" Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="水" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
-        <Border Grid.Column="4" Grid.Row="0" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="木" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="4" Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="木" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
-        <Border Grid.Column="5" Grid.Row="0" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="金" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="5" Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="金" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
-        <Border Grid.Column="6" Grid.Row="0" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="土" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="6" Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="土" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
-        <Border Grid.Column="7" Grid.Row="0" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="日" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="7" Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="日" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
-        <Border Grid.Column="0" Grid.Row="1" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="1-2時限" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="0" Grid.Row="1" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="1-2時限" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
-        <Border Grid.Column="0" Grid.Row="2" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="3-4時限" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="0" Grid.Row="2" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="3-4時限" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
-        <Border Grid.Column="0" Grid.Row="3" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="5-6時限" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="0" Grid.Row="3" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="5-6時限" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
-        <Border Grid.Column="0" Grid.Row="4" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="7-8時限" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="0" Grid.Row="4" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="7-8時限" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
-        <!--<Border Grid.Column="0" Grid.Row="5" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3">
+        <!--<Border Grid.Column="0" Grid.Row="5" BorderThickness="1" BorderBrush="Black">
             <TextBlock TextAlignment="Center" Text="9-10時限" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>-->
-        <Border Grid.Column="0" Grid.Row="5" BorderThickness="1,1,0,0" BorderBrush="#FF3E93C3" Background="#FF2C2C2C">
-            <TextBlock TextAlignment="Center" Text="夜" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></TextBlock>
+        <Border Grid.Column="0" Grid.Row="5" BorderThickness="1" BorderBrush="Black">
+            <TextBlock TextAlignment="Center" Text="夜" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
     </Grid>
 </Window>

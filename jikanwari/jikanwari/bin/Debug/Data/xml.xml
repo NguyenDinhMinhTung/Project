@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JikanWariData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Data>
+    <ArrayOfString>
+      <string></string>
+      <string>男女共同参画社会論</string>
+      <string>情報工学実験Ⅰ</string>
+      <string>情報工学実験Ⅰ</string>
+      <string></string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>基礎数学ⅢＡ</string>
+      <string>基礎物理学ⅠＥ</string>
+      <string>日本語４－Ⅳ</string>
+      <string>情報と知識・技術ⅠＢ</string>
+      <string></string>
+    </ArrayOfString>
+<ArrayOfString>
+      <string></string>
+      <string></string>
+      <string>教養ゼミナール２</string>
+      <string>プログラミング実習Ⅰ</string>
+      <string></string>
+    </ArrayOfString>
+<ArrayOfString>
+      <string></string>
+      <string>コンピュータシミュレーション</string>
+      <string></string>
+      <string>多文化コミュニケーション</string>
+      <string></string>
+    </ArrayOfString>
+<ArrayOfString>
+      <string>基礎数学ⅣＡ</string>
+      <string>日本語４－Ⅳ</string>
+      <string></string>
+      <string></string>
+      <string></string>
+    </ArrayOfString>
+<ArrayOfString>
+      <string></string>
+      <string></string>
+      <string></string>
+      <string></string>
+      <string></string>
+    </ArrayOfString>
+<ArrayOfString>
+      <string></string>
+      <string></string>
+      <string></string>
+      <string></string>
+      <string></string>
+    </ArrayOfString>
+  </Data>
+</JikanWariData>

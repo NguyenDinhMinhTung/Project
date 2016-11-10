@@ -63,6 +63,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="EvenData.cs" />
+    <Compile Include="EvenItems.cs" />
     <Compile Include="JikanWariData.cs" />
     <Compile Include="JikanWariItems.cs" />
     <Compile Include="MainWindow.xaml.cs">
